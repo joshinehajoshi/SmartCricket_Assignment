@@ -1,0 +1,281 @@
+
+
+.firstdiv2 {
+    display: flex;
+
+}
+
+.firstdiv3 {
+    display: grid;
+    justify-content: flex-end;
+    
+}
+
+.navlogo {
+    height: 2rem;
+    width: 2rem;
+}
+.navlogo1 {
+    height: 2rem;
+    width: 2rem;
+}
+.navlogo2 {
+    height: 2rem;
+    width: 3rem;
+
+}
+.badge1{
+    border-radius: 46%;
+    position: relative;
+    border-radius: 33px;
+    bottom: 14px;
+    right: 16px;
+    
+}
+.navbar-brand {
+    padding-left: 1rem;
+}
+.dotspan {
+    color: orange;
+    height: 3rem;
+    width: 3rem;
+}
+.badge{
+position: relative;
+bottom: 14px;
+right: 0px;
+}
+
+.carousel-item {
+    background-color: rgb(170, 167, 160);
+}
+
+
+
+
+
+.card1 {
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    background-color: rgb(170, 167, 160);
+    border: none !important;
+}
+
+.btn-primary {
+    background-color: rgba(233, 73, 10, 0.842) !important;
+    color: white;
+    border: orange;
+    border-radius: 0%;
+}
+
+.btn-primary1 {
+    background-color: rgba(77, 74, 74, 0.842) !important;
+    color: white;
+    border: orange;
+    border-radius: 0%;
+    border-radius: 20px;
+}
+
+
+
+
+.btn-primary :hover{
+    background-color: white;
+    border: white !important;
+    color:rgba(233, 73, 10, 0.842) !important;
+    border-radius: 0%;
+}
+.btn-primary :active{
+    background-color: white;
+    border: white !important;
+    color:rgba(233, 73, 10, 0.842) !important;
+    border-radius: 0%;
+}
+
+.btn-primaryload{
+    background-color:rgb(3, 3, 41);
+    border: darkblue !important;
+    color:rgba(255, 255, 255, 0.842) !important;
+    border-radius: 0%;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+.card2 {
+    padding: 1rem;
+    height: 15rem;
+    background: url("../images/furniture3.jpg");
+}
+
+
+.brand1 {
+    position: relative;
+    bottom: 9px;
+}
+
+small {
+    position: relative;
+    top: 14px;
+    right: 199px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.buttondiv {
+    background: url("../images/furniture1.jpg");
+    
+}
+
+.icondiv {
+    display: flex;
+    justify-content: center;
+    padding-top: 10rem;
+    padding-bottom: 2rem;
+
+}
+
+.icontext {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+.newbtn {
+    background-color: rgba(105, 201, 76, 0.842) !important;
+    color: white;
+    border:rgba(105, 201, 76, 0.842);
+    border-radius: 0%;
+    
+}
+
+.hotbtn {
+    background-color: #ff4426e0 !important;
+    color: white;
+    border: #ff4426e0;
+    border-radius: 0%;
+    
+}
+
+.fa-facebook{
+    border-radius: 30px !important ;
+}
+
+
+.btnss {
+    display: flex;
+    justify-content:flex-end;
+
+}
+
+.row{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
+.postcard {
+    background-color: rgb(199, 192, 192);
+    padding: 0px;
+}
+
+.cardtext {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.fourbtns {
+    height: 7rem;
+    width: 7rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 63px;
+    padding: 29px;
+    padding-left: 35px;
+}
+.fourbtns h6 {
+    font-size: 12px;
+}
+
+.newsdiv {
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+
+
+
+
+.blackcard {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background-color:rgb(22, 22, 58);
+}
+
+
+.blackcards {
+    color:white;
+    background-color: rgb(22, 22, 58);
+}
+
+
+.blackcard11 {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background-color: rgb(172, 170, 170);
+}
+
+
+.blackcards11 {
+    color:rgb(3, 3, 3);
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+
+.blackcard1 {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 992px) {
+    small {
+      display: none;
+    }
+    .brand1 {
+        bottom: 0px;
+    }
+  }
